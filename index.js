@@ -15,8 +15,13 @@ app.get("/contact", (req,res) =>{
     res.send("contact page")
 })
 
+<<<<<<< Updated upstream
 app.get("/home4", (req, res) =>{
     res.send("Hallo,Neyma")
+=======
+app.get("/home3", (req,res)=>{
+    res.send("Hallo, Ines")
+>>>>>>> Stashed changes
 })
 
 
