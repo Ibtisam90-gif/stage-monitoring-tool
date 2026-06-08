@@ -15,6 +15,10 @@ app.get("/contact", (req,res) =>{
     res.send("contact page")
 })
 
+app.get("/home4", (req, res) =>{
+    res.send("Hallo,Neyma")
+})
+
 
 app.listen(port, () => {
     console.log(`App Listing on Port ${port}`);
