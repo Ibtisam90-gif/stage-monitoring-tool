@@ -1,7 +1,7 @@
 {
   "name": "stage-monotoring-tool",
   "version": "1.0.0",
-  "description": "",
+  "description": "stage-monitoring-tool A web-based stage monitoring tool designed to manage the entire internship process, including applications, approvals, logbooks, evaluations, and document management. Stage Monitoring Tool",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -14,5 +14,13 @@
   "dependencies": {
     "express": "^5.2.1",
     "nodemon": "^3.1.14"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ibtisam90-gif/stage-monitoring-tool.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Ibtisam90-gif/stage-monitoring-tool/issues"
+  },
+  "homepage": "https://github.com/Ibtisam90-gif/stage-monitoring-tool#readme"
 }
