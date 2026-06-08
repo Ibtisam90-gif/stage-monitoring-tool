@@ -15,15 +15,12 @@ app.get("/contact", (req,res) =>{
     res.send("contact page")
 })
 
-app.get("/home4", (req, res) =>{
-    res.send("Hallo,Neyla")
-  })
-    
-app.get("/home2", (req,res) =>{
-    res.send("hallo jij ibtisam")
+app.get("/home", (req,res)=>{
+    res.send("Hallo, jij Hakki")
 })
 
-//test 3
+//test
+
 
 app.get("/home3", (req,res)=>{
     res.send("Hallo, Ines")
