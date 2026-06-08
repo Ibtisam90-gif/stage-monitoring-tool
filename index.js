@@ -16,7 +16,7 @@ app.get("/contact", (req,res) =>{
 })
 
 app.get("/home2", (req,res) =>{
-    res.send("hallo Ibtisam")
+    res.send("hallo jij ibtisam")
 })
 
 
