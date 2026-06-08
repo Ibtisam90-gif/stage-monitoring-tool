@@ -20,11 +20,6 @@ app.get("/home", (req,res)=>{
 })
     
 
-app.get("/home4", (req, res) =>{
-    res.send("Hallo,Neyla")
-})
-
-
 
 
 app.listen(port, () => {
