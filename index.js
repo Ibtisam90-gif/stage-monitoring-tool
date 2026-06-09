@@ -23,6 +23,8 @@ app.get("/home", (req,res)=>{
 
 test 
 
+test2
+
 
 app.get("/home3", (req,res)=>{
     res.send("Hallo, Ines")
