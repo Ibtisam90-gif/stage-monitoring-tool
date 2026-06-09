@@ -21,6 +21,7 @@ app.get("/home", (req,res)=>{
 
 //test
 
+scheisse 
 
 app.get("/home3", (req,res)=>{
     res.send("Hallo, Ines")
